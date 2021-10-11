@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JinheZhang, a junior student in College of Software, Beihang University(BUAA). I'm also a research intern of [VDIG](https://github.com/VDIGPKU), Peking University
+- 👋 Hi, I’m @JinheZhang, a junior student in College of Software, Beihang University(BUAA). 
 - 👀 I’m interested in `Computer Vision`, `Deep learning`
 - 🌱 I’m currently working on `mixed precision quantization`
 - 📫 You can reach me at `277879201@buaa.edu.cn`
