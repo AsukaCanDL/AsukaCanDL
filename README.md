@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JinheZhang, a junior student in College of Software, Beihang University(BUAA). 
 - 👀 I’m interested in `Computer Vision`, `Deep learning`
 - 🌱 I’m currently working on `mixed precision quantization`
-- 📫 You can reach me at `277879201@buaa.edu.cn`
+- 📫 You can reach me at `jh_zhang@buaa.edu.cn`
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsukaCanDL&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
