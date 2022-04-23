@@ -4,7 +4,7 @@
 - 📫 You can reach me at `jh_zhang@buaa.edu.cn`
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsukaCanDL&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaidenE1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JinheZhang/JinheZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
