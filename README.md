@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JinheZhang, a junior student in College of Software, Beihang University(BUAA), currently a research intern at WICT, Peking University. 
-- 👀 I’m interested in `Computer Vision`, `Deep Learning`, `Model Quantization`
-- 🌱 I’m currently working on `Binary Neural Networks` & `Neural Architechture Search`
-- 📫 You can reach me at `jh_zhang@buaa.edu.cn`
+- 👋 Hi, I’m @Jinhe Zhang, a Master student in University of Waterloo. 
+- 👀 I’m interested in `Golang`, `Rust` and `Software Development`.
+- 🌱 I used to be an SRE intern at `Bytedance`.
+- 📫 You can reach me at `raidene1@outlook.com`
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaidenE1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
