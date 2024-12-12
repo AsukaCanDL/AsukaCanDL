@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Jinhe Zhang, a Master student in University of Waterloo. 
+- 👋 Hi, I’m @Jinhe Zhang, a Backend Engineer at [Viggle](https://viggle.ai/home).
+- University of Waterloo alumni.
 - 👀 I’m interested in `Golang`, `Rust` and `Software Development`.
 - 🌱 I used to be an SRE intern at `Bytedance`.
 - 📫 You can reach me at `raidene1@outlook.com`
